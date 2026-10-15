@@ -1,0 +1,9 @@
+# Local deployment packages
+*.zip
+
+# Local tooling and secrets
+.vercel/
+.env
+.env.*
+node_modules/
+
